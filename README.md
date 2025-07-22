@@ -1,4 +1,4 @@
-O app Learn Together mostra uma lista de artigos sobre várias bibliotecas do Jetpack. O usuário pode escolher um tema para ver mais informações sobre as últimas novidades.
+O App Learn Together mostra uma lista de artigos sobre várias bibliotecas do Jetpack. O usuário pode escolher um tema para ver mais informações sobre as últimas novidades.
 
 Neste exercício, você vai criar uma tela para o app, mostrando um tutorial do Jetpack Compose. Para esse problema, usamos os recursos de string e imagem disponibilizados na seção Recursos.
 
